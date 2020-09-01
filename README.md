@@ -4,7 +4,7 @@
 
 My name is Leonardo Rocha  and I'm from Brazil (🇧🇷). I've been studying C programming, including microcontrollers, since 2017. I look forward to work with IoT and integrate all of my knowledges.
 
-- 🔭 I’m currently learning/working on web development with a project in my univisity.
+- 🔭 I’m currently working on web development with a project in my univisity.
 - 🌱 I’m currently learning mobile/web development with typescript/javascript and ReactJS/React Native.
 - 👯 I’m looking to collaborate on cool games or app ideas.
 - 💬 In my free time I practice some sports, TaeKwonDo(🥋  - red belt actually) and Basketball(🏀), I play the Acoustic and Electric Guitar (🎸) and watch anime (🇯🇵). 
