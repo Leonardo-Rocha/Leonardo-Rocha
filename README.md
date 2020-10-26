@@ -7,7 +7,7 @@ My name is Leonardo Rocha  and I'm from Brazil (🇧🇷). I've been studying C 
 - 🔭 I’m currently working on web development in a project in my university.
 - 🌱 I’m currently learning mobile/web development with typescript/javascript and ReactJS/React Native.
 - 👯 I’m looking to collaborate on cool games or app ideas.
-- 💬 In my free time I practice some sports, TaeKwonDo(🥋  - red belt actually) and Basketball(🏀), I play the Acoustic and Electric Guitar (🎸) and watch anime (🇯🇵). 
+- 💬 In my free time I practice some sports, TaeKwonDo(🥋  - red belt rank) and Basketball(🏀), I play the Acoustic and Electric Guitar (🎸) and watch anime (🇯🇵). 
 - ⚡ Fun fact: my last name can be read in english as Stone(🗿).
 - 📫 How to reach me: 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/ArtesExatas)](https://www.youtube.com/c/ArtesExatas)
